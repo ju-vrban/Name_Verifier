@@ -1,0 +1,4 @@
+/home/jurica/Name_Verifier/build/CMakeFiles/edit_cache.dir
+/home/jurica/Name_Verifier/build/CMakeFiles/rebuild_cache.dir
+/home/jurica/Name_Verifier/build/CMakeFiles/Name_Verifier.dir
+/home/jurica/Name_Verifier/build/CMakeFiles/Name_Verifier_autogen.dir

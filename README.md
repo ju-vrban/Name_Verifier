@@ -13,6 +13,7 @@ Name verifier is a console application that reads the entries from a text file, 
 ## Not working
 - Multithreading is still not working
 - Main output is to be implemented after multithreading
+- Unit tests as of yet not iplemented
 
 ## Usage
 

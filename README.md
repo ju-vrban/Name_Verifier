@@ -26,3 +26,5 @@ read_thread.detach();
 std::thread processing_thread(insert_word);
 processing_thread.join();
 ```
+## Work in progress
+Currently multithreading is being worked on.
